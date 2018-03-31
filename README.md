@@ -7,3 +7,6 @@ __Linear Regression__
 
 
 __Logistic Regression__
+
+
+__Classification__
