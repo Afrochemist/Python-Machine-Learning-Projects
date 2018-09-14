@@ -9,4 +9,4 @@ __Linear Regression__
 __Logistic Regression__
 
 
-__Classification__
+__Unsupervised Learning__
